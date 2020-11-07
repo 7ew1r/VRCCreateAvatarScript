@@ -4,7 +4,8 @@
 
 ## Requirement
 
-- `git` コマンドが powershell で使えるようにしておく
+- `powershell`
+- `git`
 
 ## Usage
 
